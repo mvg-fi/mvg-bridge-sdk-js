@@ -1,0 +1,1 @@
+export const APIEndpoint = "https://api.mvg.fi/"
